@@ -1,5 +1,12 @@
 # rollup-plugin-web-worker-loader
 
+### Note
+
+This is a fork from https://github.com/darionco/rollup-plugin-web-worker-loader, mainly to adjust 
+dependencies.
+
+### Abstract
+
 Rollup plugin to handle Web Workers, Service Workers, Shared Workers,
 Audio Worklets, and Paint Worklets. Support for Animation Worklets and
 Layout Worklets is in consideration for when implementations are available
